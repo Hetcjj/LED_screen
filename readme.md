@@ -7,7 +7,7 @@
   - ESP32 C3 MINI
   - 显示模组类型 WS2812 10X8的点阵屏
   - 麦克使用的是淘宝买的 434模组
-  ![image](assets\picture\屏幕截图 2025-11-19 141540.png)
+ ![LED效果](assets/picture/屏幕截图%202025-11-19%20141540.png)
 
 ---
 
@@ -61,7 +61,7 @@ GND → LED GND（注意与 ESP32 共地）
 
 # 四、结构
 
-![image](assets\picture\image-20251118140447-0l0w7y7.png)
+![image](assets/picture/image-20251118140447-0l0w7y7.png)
 
 整体外壳采用 **分层堆叠式结构**，从上到下依次为：
 
